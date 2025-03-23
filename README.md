@@ -95,8 +95,8 @@ Clone this project
 
 ```bash
 > pkg install git
-> git clone https://github.com/adimas999/telegram-bot
-> cd Btelegram-bot
+> git clone https://github.com/txmx4/telegram-bot_2
+> cd telegram-bot_2
 ```
 
 Install the dependencies:
